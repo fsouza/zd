@@ -1,0 +1,3 @@
+(executable
+ (name zd)
+ (libraries base core))
